@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "56b187e31c13f508",
+    "type": "split",
+    "children": [
+      {
+        "id": "47237bbb35676850",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaa4e54a4f428bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X/别再过度思考每一个决定了,你的潜意识已经有了答案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "别再过度思考每一个决定了,你的潜意识已经有了答案"
+            }
+          },
+          {
+            "id": "3f2f78884342fa6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X/如何做到如此高效到感觉违法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何做到如此高效到感觉违法"
+            }
+          },
+          {
+            "id": "7509be5d354fee18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NA/二次型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "二次型"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2561e64bee81b98c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1471e5a7f1f7a8f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca933164aee0e231",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1114857233507019",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d06ce06c1a2103a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f5c6330473c6d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d56cb5cee96bc0bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e6635fec4723499",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "c3113f1a0477fa65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "3de8ec8b88c387b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "37b2e63bdafe3dd3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ae69190437c54b0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          },
+          {
+            "id": "5e200adc0abc2d36",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "nutstore-sync:Start sync": false,
+      "nutstore-sync:Stop sync": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ca933164aee0e231",
+  "lastOpenFiles": [
+    "X/如果你连脑海中的苹果都转不动，你就不是在建设未来，你只是家具.md",
+    "X/如何做到如此高效到感觉违法.md",
+    "X/别再过度思考每一个决定了,你的潜意识已经有了答案.md",
+    "X/查理·芒格，1万亿美元帝国背后的思维框架.md",
+    "X/我想学习如何用 AI 构建内容机器.md",
+    "X/人类3.0——通往顶尖1%的地图.md",
+    "X/官方消息：世界秩序已经崩溃.md",
+    "X/世界已达到人类历史上的“不确定性”顶峰.md",
+    "X/如何在末日滚动时保护你的大脑.md",
+    "X/你无法停止每天查看手机150次的真正原因.md",
+    "X/你做的每一个决定背后的隐藏数学——以及为什么大多数人会犯错.md",
+    "X/克劳德·香农， 创造性思维.md",
+    "X/一天内修复自己（生死攸关）.md",
+    "X/如何停止浪费生命：完整的多巴胺排毒方案.md",
+    "X/你训练机器人却浑然不觉.md",
+    "X/如何用 Claude 在一个下午写出一个月的内容.md",
+    "X/如果我明天失去一切，以下是我如何在90天内赚1万美元，且一无所有的方案.md",
+    "X/Open SWE：一个用于内部编码代理的开源框架未命名.md",
+    "X/一文了解 Anthropic 的 Claude Code 源码：为什么它就是比别人好用？.md",
+    "X/我用 Claude 代码学到的全部内容，两个月来学到的.md",
+    "X/一个 Claude 提示，让你永远改变营养.md",
+    "X/家长如何应对落后200年的教育体系.md",
+    "X/开始使用回形针 AI：打造零人工公司.md",
+    "X/克劳德如何在四个月内将300美元变成2,382,780美元.md",
+    "X/如何最终相信克劳德的建议.md",
+    "X/社交媒体已经死了-----兴趣媒体来了.md",
+    "提示词",
+    "develop",
+    "X",
+    "NA",
+    "ML",
+    "Excalidraw",
+    "未命名.base"
+  ]
+}
