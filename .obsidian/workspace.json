@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X/5分钟跨过Claude高手与小白的几条指令鸿沟.md",
+                "file": "Awesome Claude Skills 仓库用途和使用方法.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5分钟跨过Claude高手与小白的几条指令鸿沟"
+              "title": "Awesome Claude Skills 仓库用途和使用方法"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 414.5
   },
   "right": {
     "id": "6f5c6330473c6d9e",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "Awesome Claude Skills 仓库用途和使用方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "Awesome Claude Skills 仓库用途和使用方法 的大纲"
             }
           },
           {
@@ -176,12 +176,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 434.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,6 +201,19 @@
   },
   "active": "d5772b4a74016538",
   "lastOpenFiles": [
+    "X/Claude AI 领域前 60 项技能、工作流程和 GitHub 仓库——完整列表.md",
+    "Awesome Claude Skills 仓库用途和使用方法.md",
+    "X/在 10 分钟内为 AI 代理和人类构建一个 CLI.md",
+    "X/我用 Claude 代码学到的全部内容，两个月来学到的.md",
+    "X/我想成为一名 Claude 架构师（完整课程）.md",
+    "X/如何最终相信克劳德的建议.md",
+    "X/如何摆脱平庸.md",
+    "X/如何将 Claude 代码转化为自进化系统[完整指南].md",
+    "X/人人都是深度学习工程师：autoresearch如何改变训练方法论.md",
+    "X/从层级到智能.md",
+    "X/从 0 美元到 1 万美元——如何用 Claude 推出你的产品，逐步指南.md",
+    "X/如何在一周内掌握Claude全家桶.md",
+    "X/5分钟跨过Claude高手与小白的几条指令鸿沟.md",
     "X/8 个 Claude 代码钩子，自动帮你忘记的事情.md",
     "Obsidian零基础教程.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
@@ -215,21 +227,8 @@
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "如何让Obsidian + Claude Code帮你安排一切.md",
-    "提示词/gork整理X文章.md",
-    "X/位置轮换：如何随时解锁无限能量.md",
-    "X/让你的生活自动化.md",
-    "develop/Git.md",
-    "X/5分钟跨过Claude高手与小白的几条指令鸿沟.md",
-    "X/Claude AI 领域前 60 项技能、工作流程和 GitHub 仓库——完整列表.md",
-    "X/从 0 美元到 1 万美元——如何用 Claude 推出你的产品，逐步指南.md",
-    "develop/openclaude或Claudecode配置命令.md",
     "提示词",
     "develop",
     "X",
