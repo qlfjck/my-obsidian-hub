@@ -210,14 +210,15 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "nutstore-sync:Start sync": false,
       "nutstore-sync:Stop sync": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "2abf33032257d0fb",
   "lastOpenFiles": [
+    "如何让Obsidian + Claude Code帮你安排一切.md",
     "Obsidian零基础教程.md",
     "提示词/gork整理X文章.md",
-    "如何让Obsidian + Claude Code帮你安排一切.md",
     "X/位置轮换：如何随时解锁无限能量.md",
     "X/让你的生活自动化.md",
     "8 个 Claude 代码钩子，自动帮你忘记的事情.md",
