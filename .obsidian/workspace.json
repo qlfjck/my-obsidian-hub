@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NA/二次型.md",
+                "file": "40 岁后的身体保养指南：饮食、运动与作息的科学方案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二次型"
+              "title": "40 岁后的身体保养指南：饮食、运动与作息的科学方案"
             }
           }
         ],
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca933164aee0e231",
+  "active": "7509be5d354fee18",
   "lastOpenFiles": [
+    "NA/二次型.md",
+    "40 岁后的身体保养指南：饮食、运动与作息的科学方案.md",
     "X/如果你连脑海中的苹果都转不动，你就不是在建设未来，你只是家具.md",
     "X/如何做到如此高效到感觉违法.md",
     "X/别再过度思考每一个决定了,你的潜意识已经有了答案.md",
@@ -252,8 +255,6 @@
     "X/家长如何应对落后200年的教育体系.md",
     "X/开始使用回形针 AI：打造零人工公司.md",
     "X/克劳德如何在四个月内将300美元变成2,382,780美元.md",
-    "X/如何最终相信克劳德的建议.md",
-    "X/社交媒体已经死了-----兴趣媒体来了.md",
     "提示词",
     "develop",
     "X",
