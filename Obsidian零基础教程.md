@@ -254,10 +254,4 @@ Obsidian强大之处在于丰富插件生态，分为核心插件（官方自带
 
 ---
 
-## 🔗 原文链接
-
-[点击查看原文](https://free.easychat.top/chat/%E7%B2%98%E8%B4%B4%E9%93%BE%E6%8E%A5)
-
----
-
 **🏷️ 标签：** #Obsidian #笔记工具 #Markdown教程 #双向链接 #知识图谱 #AI集成 #插件推荐 
